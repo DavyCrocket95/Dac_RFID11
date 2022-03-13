@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "760054229221",
+    "firebase_url": "https://dacfirebase22-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dacfirebase22",
+    "storage_bucket": "dacfirebase22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760054229221:android:de2975c0bae951d1b20c0c",
+        "android_client_info": {
+          "package_name": "com.example.cloudfirestoredac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760054229221-1c554e2672pnes5fpc3t5mh7pnp3bs0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_-bvFMT2CxCF86_8L98hGlEqASEP5Feg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760054229221-1c554e2672pnes5fpc3t5mh7pnp3bs0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760054229221:android:c3d1e4526575bd43b20c0c",
+        "android_client_info": {
+          "package_name": "com.example.dac_rfid11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760054229221-1c554e2672pnes5fpc3t5mh7pnp3bs0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_-bvFMT2CxCF86_8L98hGlEqASEP5Feg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760054229221-1c554e2672pnes5fpc3t5mh7pnp3bs0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760054229221:android:bea93896f359d6e0b20c0c",
+        "android_client_info": {
+          "package_name": "com.example.dacfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760054229221-n4f4dfrcs7i5j0dgfhhrum3ui3hbvg61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dacfirebase",
+            "certificate_hash": "d68ed09376561946a6893d79e1e0b2fc7bfbefea"
+          }
+        },
+        {
+          "client_id": "760054229221-1c554e2672pnes5fpc3t5mh7pnp3bs0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_-bvFMT2CxCF86_8L98hGlEqASEP5Feg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760054229221-1c554e2672pnes5fpc3t5mh7pnp3bs0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
